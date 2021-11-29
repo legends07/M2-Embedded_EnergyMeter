@@ -1,11 +1,11 @@
 # M2-Embedded_
 
 ## Linux OS Build
-[![Linux OS Build](https://github.com/legends07/M2-Embedded_/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/c-cpp.yml)
+[![Linux Build](https://github.com/legends07/M2-Embedded_/actions/workflows/Win_c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/Win_c-cpp.yml)
 
 
 ## Windows OS Build
-[![Windows OS Build](https://github.com/legends07/M2-Embedded_/actions/workflows/Win_c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/Win_c-cpp.yml)
+[![Windows Build](https://github.com/legends07/M2-Embedded_/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/c-cpp.yml)
 
 
 ## CPP Check
