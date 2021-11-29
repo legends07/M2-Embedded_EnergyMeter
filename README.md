@@ -10,7 +10,7 @@
 [![Unity Testing](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/Unity_Testing.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/Unity_Testing.yml)
 
 ## CPP Check
-[![CPP Check](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/cpp_check.yml)
+[![CPP Check](https://github.com/legends07/M2-Embedded_/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/cpp_check.yml)
 
 ## Quality Badge(Codacy)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1205f42607a4dbbb2823dea36bbe860)](https://www.codacy.com/gh/legends07/M1_Application_Digital-Number-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=legends07/M1_Application_Digital-Number-System&amp;utm_campaign=Badge_Grade)
