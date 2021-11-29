@@ -1,13 +1,12 @@
 # M2-Embedded_
 
 ## Linux OS Build
-[![Linux OS Build](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/linux_c-cpp.yml)
+[![Linux OS Build](https://github.com/legends07/M2-Embedded_/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/c-cpp.yml)
+
 
 ## Windows OS Build
-[![Windows OS Build](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/Windows_c-cpp.yml)
+[![Windows OS Build](https://github.com/legends07/M2-Embedded_/actions/workflows/Win_c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/Win_c-cpp.yml)
 
-## Unity Testing
-[![Unity Testing](https://github.com/legends07/M1_Application_Digital-Number-System/actions/workflows/Unity_Testing.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/Unity_Testing.yml)
 
 ## CPP Check
 [![CPP Check](https://github.com/legends07/M2-Embedded_/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/cpp_check.yml)
