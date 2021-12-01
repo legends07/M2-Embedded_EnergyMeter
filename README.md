@@ -1,4 +1,4 @@
-# M2-Embedded_
+# M2-Embedded_EnergyMeter
 
 ## Linux OS Build
 [![Linux Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/Win_c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/Win_c-cpp.yml)
@@ -16,6 +16,9 @@
 
 # Code Quality Score
 ![Code Quality Score](https://api.codiga.io/project/29897/score/svg)
+
+![image](https://user-images.githubusercontent.com/80235704/144298413-409aef24-f01f-4392-8180-7d02b92d7ca4.png)
+
 
 
 # Folder Structure :
