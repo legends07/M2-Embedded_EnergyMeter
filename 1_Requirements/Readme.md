@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-In this project the user can easily convert any number system such as: Binary to decimal, octal, hexadecimal. Decimal to binary, octal, hexadecimal. Octal to binary, decimal, hexadecimal. Hexadecimal to binary, decimal, octal. 
+In this project the user can help user retro fit a smart engergy meter on top of the exisinting system.
 
 ## Research
 
@@ -42,11 +42,11 @@ A Hexadecimal number system has sixteen (16) alphanumeric values from 0 to 9 and
 
 ## Who:
 
-**Programers,Students,Enthusiast and for Teaching Purposes**
+**Resiential Consumers, Industries, Small scale manufacturing units**
 
 ## What:
 
-**Used for easy and quick convertion**
+**Used for easy and fast tracking**
 
 ## When:
 
@@ -54,11 +54,11 @@ A Hexadecimal number system has sixteen (16) alphanumeric values from 0 to 9 and
 
 ## Where:
 
-**As a online tool or a application**
+**As a retro-fit**
 
 ## How:
 
-**TBD**
+**Purchase from store and DIY or Professional Installation**
 
 # Detail requirements
 High level requirements: 
