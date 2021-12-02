@@ -1,15 +1,15 @@
 # M2-Embedded_EnergyMeter
 
 ## Linux OS Build
-[![Linux Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/Win_c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/Win_c-cpp.yml)
+[![Linux Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_EnergyMeter/blob/main/.github/workflows/linux_c-cpp.yml)
 
 
 ## Windows OS Build
-[![Windows Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/c-cpp.yml)
+[![Windows Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_EnergyMeter/blob/main/.github/workflows/c-cpp.yml)
 
 
 ## CPP Check
-[![CPP Check](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/cpp_check.yml)
+[![CPP Check](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M2-Embedded_EnergyMeter/blob/main/.github/workflows/cpp_check.yml)
 
 ## Quality Badge(Codacy)
 [![Codacy Badge][![Codacy Badge](https://app.codacy.com/project/badge/Grade/96584430e6ec42309ceec6c29a1e655a)](https://www.codacy.com/gh/legends07/M2-Embedded_EnergyMeter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=legends07/M2-Embedded_EnergyMeter&amp;utm_campaign=Badge_Grade)
