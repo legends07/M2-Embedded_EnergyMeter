@@ -12,7 +12,7 @@
 # Code Quality Score
 ![Code Quality Score](https://api.codiga.io/project/30259/score/svg)
 
-![image](https://user-images.githubusercontent.com/80235704/144298413-409aef24-f01f-4392-8180-7d02b92d7ca4.png)
+![image](https://user-images.githubusercontent.com/80235704/144379697-a0cb4747-c012-4dac-aac9-e427e950014b.png)
 
 
 
