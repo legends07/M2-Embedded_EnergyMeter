@@ -15,7 +15,7 @@
 [![Codacy Badge][![Codacy Badge](https://app.codacy.com/project/badge/Grade/96584430e6ec42309ceec6c29a1e655a)](https://www.codacy.com/gh/legends07/M2-Embedded_EnergyMeter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=legends07/M2-Embedded_EnergyMeter&amp;utm_campaign=Badge_Grade)
 
 # Code Quality Score
-![Code Quality Score](https://api.codiga.io/project/29897/score/svg)
+![Code Quality Score](https://api.codiga.io/project/30259/score/svg)
 
 ![image](https://user-images.githubusercontent.com/80235704/144298413-409aef24-f01f-4392-8180-7d02b92d7ca4.png)
 
