@@ -12,7 +12,7 @@
 [![CPP Check](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/cpp_check.yml)
 
 ## Quality Badge(Codacy)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1205f42607a4dbbb2823dea36bbe860)](https://www.codacy.com/gh/legends07/M1_Application_Digital-Number-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=legends07/M1_Application_Digital-Number-System&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge][![Codacy Badge](https://app.codacy.com/project/badge/Grade/96584430e6ec42309ceec6c29a1e655a)](https://www.codacy.com/gh/legends07/M2-Embedded_EnergyMeter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=legends07/M2-Embedded_EnergyMeter&amp;utm_campaign=Badge_Grade)
 
 # Code Quality Score
 ![Code Quality Score](https://api.codiga.io/project/29897/score/svg)
