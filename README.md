@@ -4,11 +4,6 @@
 [![Linux Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/legends07/M1_Application_Digital-Number-System/blob/main/.github/workflows/linux_c-cpp.yml)
 
 
-
-## Windows OS Build
-[![Windows Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_EnergyMeter/blob/main/.github/workflows/c-cpp.yml)
-
-
 ## CPP Check
 [![CPP Check](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M2-Embedded_EnergyMeter/blob/main/.github/workflows/cpp_check.yml)
 
