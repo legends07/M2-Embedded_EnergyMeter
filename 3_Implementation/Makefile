@@ -4,7 +4,7 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/energymeter.c
+Engergymeter.c
 
 # All header file paths
 INC = -I inc
